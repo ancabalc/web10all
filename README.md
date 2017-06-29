@@ -8,4 +8,4 @@ Anca BALC
 Lazar Nicu
 Alex Vegh
 Puscas Rares
-Bogdan Stanescu
+Alex Ionut
