@@ -2,8 +2,8 @@
 Adrian Varga
 Adrian Cucuruzan
 Anca BALC
-Anca BALC
 Lazar Nicu
 Alex Vegh
-Anca BALC
 Puscas Rares
+Alex
+
