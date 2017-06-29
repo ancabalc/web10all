@@ -1,7 +1,9 @@
 # web10all
+Nagy Lilla
 Adrian Varga
 Cristian Grigorita
 Anca BALC
 Lazar Nicu
 Alex Vegh
 Puscas Rares
+Bogdan Stanescu
