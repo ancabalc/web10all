@@ -1,8 +1,14 @@
 # web10all
+Nagy Lilla
 Adrian Varga
 Norbert Zsupun
+Adrian Cucuruzan
+Bogdan Stanescu
 Anca BALC
 Lazar Nicu
 Alex Vegh
-Anca BALC
 Puscas Rares
+Alex
+Ionut
+Andrea Marginean
+Orban Balint
