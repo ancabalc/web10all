@@ -1,7 +1,8 @@
 # web10all
+Nagy Lilla
 Adrian Varga
 Anca BALC
 Lazar Nicu
 Alex Vegh
-Anca BALC
 Puscas Rares
+Alex
