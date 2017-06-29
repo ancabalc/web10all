@@ -13,4 +13,6 @@ Lazar Nicu
 Alex Vegh
 Puscas Rares
 Alex
-
+Ionut
+Andrea Marginean
+Orban Balint
