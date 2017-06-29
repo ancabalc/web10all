@@ -1,2 +1,2 @@
 # web10all
-Adrian Varga
+Nagy Lilla
