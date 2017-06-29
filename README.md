@@ -2,6 +2,8 @@
 Nagy Lilla
 Adrian Varga
 Cristian Grigorita
+Adrian Cucuruzan
+Bogdan Stanescu
 Anca BALC
 Lazar Nicu
 Alex Vegh
